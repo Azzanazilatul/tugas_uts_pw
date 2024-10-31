@@ -1,0 +1,62 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.pembuka {
+    background-color: #9b59b6;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.pembuka h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.pembuka p {
+    font-size: 16px;
+}
+
+.daftar {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.daftar ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+.daftar li {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.daftar img {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.daftar p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
